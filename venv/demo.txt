@@ -1,0 +1,5 @@
+01 0 H 1 e 7 l 3 o 3 ! 1 T 2 h 1 i 3 s 4 I 2 A 3 M 1 a 1 g 1 B 1 E 1 m 1 b 1 d 4 n 2 u 1 F 1 
+02 0 A 5 B 4 C 3 D 2 E 1 F 2 G 4 H 4 I 5 
+03 0 a 3 b 3 c 3 d 3 e 3 f 3 g 3 h 3 i 3 j 3 k 3 l 3 m 3 n 3 o 3 p 3 q 3 r 3 s 3 t 3 u 3 v 3 w 3 x 3 y 3 z 3 
+04 0 I 2 n 7 _ 19 T 4 h 5 i 11 s 7 A 1 u 6 d 4 o 4 F 1 l 6 e 10 S 2 p 3 a 10 k 3 r 5 g 2 P 1 m 2 b 2 . 2 t 2 q 2 y 2 f 1 c 1 4 2 H 1 z 1 
+121 0 a 4 b 3 c 2 d 1 e 2 
